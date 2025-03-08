@@ -2,6 +2,8 @@
 
 A simple and interactive To-Do List web application that allows users to add, check, and remove tasks. The app saves tasks using `localStorage` so that they persist across sessions.
 
+![alt text](img/displayPage.png)
+
 ## Features
 
 - **Add tasks**: Users can enter a task and click the "Add" button to include it in the list.
@@ -21,4 +23,5 @@ A simple and interactive To-Do List web application that allows users to add, ch
 - `style.css` – Styles the to-do list for a visually appealing UI.
 - `script.js` – Handles the logic for adding, removing, and storing tasks.
 
-Citation: GreatStack(Youtube)
+
+Reference: GreatStack
